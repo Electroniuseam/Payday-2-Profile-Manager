@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Payday-2-Profile-Manager` · Updated: 2026-10-07
+`Payday-2-Profile-Manager` · Updated: 2026-10-24
 
 **Tags:** `payday-2` `profile-manager` `co-op` `shooter` `steam`
